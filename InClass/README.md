@@ -17,3 +17,24 @@ Do the following:
 
 
 I did not eat breakfast today, just had coffee.
+
+
+
+>"Everything has beauty, but not everyone sees it."
+> Confusius.
+
+[Quotespedia](https://www.quotespedia.org/authors/c/confucius/everything-has-beauty-but-not-everyone-sees-it-confucius/)
+
+
+| __Course Number__ | _Course title_    | Instructor Name  |
+|:------------------|:------------------|:--------------------|
+| __26612__         | _Intro to Python_ | Joseph Kamto    |
+| __22760__         | _Data I_          | Katherine Shoemaker |
+
+
+### Remove multiple files
+```
+rm abc{0001..0012}
+```
+- removes multiple repositories with a single command
+- can be used when you have a lot of things to delete and don't want to write out a separate command for each one
